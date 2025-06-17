@@ -1,0 +1,200 @@
+ PROMPT COMPLETO PARA REPLIT
+
+You are tasked to build the full corporate website for Delmo Group for institutional, government, and development bank audiences, following strictly the official brief and corrections from client.
+
+🏢 General Instructions
+Target: Development banks, institutional investors, governments.
+
+Tone: Professional, sober, minimal, serious, institutional.
+
+Avoid any marketing or "salesy" style.
+
+Avoid testimonials, news, blog, subscription, or newsletter sections.
+
+Fully responsive, mobile-first.
+
+🎨 Global Design Specifications:
+Minimalistic corporate design
+
+Heavy use of white space
+
+Professional sans-serif typography
+
+Color palette:
+
+Eucalyptus Green: #A9CBB7
+
+Soft Sage tones
+
+Dark text color: #22303C
+
+Avoid red/orange/sales colors.
+
+Navbar font-weight: 500, size: 17px, height: 70px
+
+Subtle hover effect on navigation links
+
+📂 Site Navigation:
+Home
+
+About Us
+
+Vision & Capabilities
+
+Projects
+
+Awards
+
+Contact
+
+🏠 Home Page (Hero Section):
+Title: Changing the Landscape
+
+Body:
+
+Delmo Group applies its global expertise to address today’s critical environmental challenges. Leveraging Blue Economy innovation, we are developing scalable solutions for sargassum management and advancing ecological preservation across Latin America and the Caribbean.
+
+Keep the hero image currently selected in use, as per client's approval. This image may be later replaced upon client’s request.
+
+📄 About Us Page:
+Title: About Us
+
+Body:
+
+Delmo Group is a private consultancy specialized in delivering integrated solutions for complex environmental and infrastructure challenges.
+
+With decades of experience in multidisciplinary project development, we collaborate with institutional partners, development banks, and regulatory authorities to implement sustainable, scalable initiatives across Latin America and international markets.
+
+Our work reflects a strong commitment to ecological preservation, economic development, and long-term value creation.
+
+📊 Vision & Capabilities Page:
+Title: Vision & Capabilities
+
+Body:
+
+At Delmo Group, our vision is driven by the principles of the Blue Economy — fostering innovative solutions that balance economic growth with responsible stewardship of marine and terrestrial ecosystems.
+
+Our multidisciplinary capabilities span project structuring, financial modeling, environmental management, strategic advisory, and stakeholder coordination — enabling us to design and execute complex sustainability-driven projects across diverse sectors.
+
+📁 Projects Page:
+Create individual sections for each project, using the following content:
+
+1️⃣ Sargassum Management Feasibility — Punta Cana, Dominican Republic
+Delmo Group, in partnership with the Inter-American Development Bank (IDB), is leading a comprehensive feasibility study for the large-scale collection, processing, and management of sargassum algae in Punta Cana, Dominican Republic.
+
+This Blue Economy initiative addresses one of the region’s most pressing environmental challenges, with the goal of converting sargassum into sustainable bio-based products while protecting local marine ecosystems.
+
+Through strategic collaboration with international financial institutions and public agencies, Delmo Group develops scalable models that support ecological preservation and responsible economic development throughout the Caribbean.
+
+2️⃣ Cruz Malta — Buenos Aires
+Cruz Malta is a large heritage-listed building located in the center of Buenos Aires. This project involved the adaptive reuse of the existing structure while preserving its architectural integrity. The design challenge was to introduce a mezzanine level within limited ceiling height constraints, while maintaining adequate natural light and ventilation. The solution incorporated two large atriums at the core of the building, enhancing openness and functionality. The result is a modern office space of 25,000 sqm, accommodating approximately 1,500 staff. The property was successfully leased to HSBC under a 10-year agreement.
+
+3️⃣ Walsh Bay — Sydney
+This multi-award-winning urban renewal project covers 17 hectares in Sydney’s historic Rocks precinct. The development involved the restoration of historic wharves and foreshore structures, alongside the sensitive redevelopment of surrounding properties. Delmo Group’s expertise in re-piling, gained from the Finger Wharf project, contributed significantly to the technical execution. The project successfully preserved important industrial archaeology, now integrated into the public realm as part of Sydney’s maritime heritage. Walsh Bay today includes over 350 residences, complemented by cultural, commercial, retail, and public facilities.
+
+Project Value: $650 million
+
+4️⃣ Finger Wharf — Sydney
+The Finger Wharf project involved the redevelopment and adaptive reuse of the largest timber wharf structure in the Southern Hemisphere. Engineering challenges included replacing 100-year-old deteriorating timber piles, requiring the installation of steel-cased, reinforced concrete piles designed for a 100-year service life. This enabled the full restoration of the timber wharf, which was transformed into 350 luxury residences, a premium hotel, retail spaces, a marina, and fine dining venues, all integrated within a preserved heritage setting.
+
+Project Value: $300 million
+
+5️⃣ The Bond — Sydney
+Located on Sydney’s waterfront, The Bond project required full site remediation of environmental contamination from the city's first gasworks facility. The completed development includes Australia’s first 5-star eco-rated commercial office building (Lend Lease global headquarters), 49 residential apartments, refurbished heritage Bond Stores, and a new public plaza. The project exemplifies the integration of environmental sustainability with adaptive reuse of historical industrial sites.
+
+Project Value: $180 million
+
+6️⃣ The Peninsula — Sydney
+Delmo Group undertook the remediation and redevelopment of the former heritage-listed Colgate Palmolive factory in East Balmain. The site presented complex contamination challenges due to its industrial maritime history. After extensive remediation, excavation, and preservation works, the building was converted into 111 high-end apartments and 10 townhouses, set on approximately 3 acres of waterfront land, with associated parking and public open spaces.
+
+Project Value: $60 million
+
+7️⃣ Binary Centre — Sydney
+The Binary Centre is a 17,700 sqm, purpose-built office complex located in Riverside Corporate Park. Designed to achieve a 4-star rating under the Australian Building Greenhouse Rating (ABGR) scheme, the building accommodates over 1,000 staff across two six-level office towers, with three levels of basement parking for 600 vehicles. The project reflects Delmo Group’s technical capacity in delivering institutional-grade commercial assets incorporating sustainable design principles.
+
+Project Value: $80 million
+
+🏆 Awards Page:
+Title: Awards & Industry Recognition
+
+Body:
+
+Include the following award listings organized by project:
+
+FINGER WHARF - WOOLLOOMOOLOO
+
+2000 Excellence on the Waterfront, Top Honour (Waterfront Centre, Washington DC)
+
+2001 Best Refurbishment/Renovation/Extension $50 million plus (MBA)
+
+2001 Finalist, Australian Construction Achievement Awards (Institute of Engineers)
+
+2001 High Commendation, Projects over $30 million (Australian Institute of Building)
+
+WALSH BAY - SYDNEY
+
+2005 Outstanding Urban Design Award (Royal Australian Institute of Architects)
+
+2005 Development Excellence Award (Urban Taskforce NSW)
+
+2005 Development Award (National Trust of Australia)
+
+2004 Award for Excellence - Residential (ULI)
+
+2004 Excellence in Building (Year of the Built Environment Exemplars Program)
+
+2004 Heritage Waterfront (Australia Award for Urban Design)
+
+2004 Integrated Housing Open (Master Builders Association)
+
+2003 Presidents Award (UDIA)
+
+2003 Engineering Contract of the Year (CCFA)
+
+BINARY CENTRE - NORTH RYDE
+
+2002 Highly Commended, Excellence in Property Awards (Australian Property Institute)
+
+2003 Nominee, Ryder Hunt Award (Property Council of Australia)
+
+THE BOND - MILLERS POINT
+
+2004 Building of the Decade (Royal Australian Institute of Architects)
+
+2004 Development Excellence Award (Urban Taskforce NSW)
+
+2004 Excellence in Construction Award (Master Builders Association)
+
+2004 Year of the Built Environment Award (NSW Government)
+
+2005 Heritage Award (National Trust of Australia)
+
+2005 Five Star Energy Status Award (Sustainable Energy Development Authority)
+
+2005 Ecologically Sustainable Design Award (Royal Australian Institute of Architects)
+
+📞 Contact Page:
+Australia:
+Suite 10
+151 Foveaux St
+Surry Hills 2010
+Tel. 02 9844 5809
+Email: info@delmogroup.com
+
+Argentina:
+Parera 47, 4th floor
+Recoleta, CABA
+Tel. +5411 4814 1505
+Email: info@delmogroup.com
+
+⚠ IMPORTANT NOTES FOR REPLIT:
+
+Keep structure, menu, and layout as originally built.
+
+Only apply updated text content and awards based on this prompt.
+
+Existing temporary images are placeholders; image curation will happen after final content review.
+
+Maintain the current hero image for now.
+
+✅ END OF PROMPT

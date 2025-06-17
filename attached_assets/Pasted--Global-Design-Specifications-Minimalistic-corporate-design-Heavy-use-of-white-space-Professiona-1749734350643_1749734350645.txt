@@ -1,0 +1,146 @@
+🔧 Global Design Specifications
+Minimalistic corporate design
+
+Heavy use of white space
+
+Professional sans-serif typography
+
+Color palette: eucalyptus green (#A9CBB7), soft sage tones, dark text color #22303C
+
+No strong reds, oranges, or sales-style colors
+
+Fully responsive layout with mobile hamburger menu
+
+No subscribe, newsletter, testimonials, or unnecessary sections
+
+Navbar: font-weight 500, font-size 17px, height 70px
+
+Subtle hover effect on navigation links
+
+Menu structure:
+
+Home
+
+About Us
+
+Vision & Capabilities
+
+Projects
+
+Awards
+
+Contact
+
+🏠 HOME (Hero Section)
+Title: Changing the Landscape
+
+Description:
+Delmo Group applies its global expertise to address today’s critical environmental challenges. Leveraging Blue Economy innovation, we are developing scalable solutions for sargassum management and advancing ecological preservation across Latin America and the Caribbean.
+
+Image:
+Use the existing hero image already selected and approved.
+
+📄 ABOUT US
+Title: About Us
+
+Body:
+Delmo Group is a private consultancy specialized in delivering integrated solutions for complex environmental and infrastructure challenges.
+
+With decades of experience in multidisciplinary project development, we collaborate with institutional partners, development banks, and regulatory authorities to implement sustainable, scalable initiatives across Latin America and international markets.
+
+Our work reflects a strong commitment to ecological preservation, economic development, and long-term value creation.
+
+Image:
+Insert an aerial global satellite map image representing international scope (e.g., global satellite map aerial business).
+
+📊 VISION & CAPABILITIES
+Title: Vision & Capabilities
+
+Body:
+At Delmo Group, our vision is driven by the principles of the Blue Economy — fostering innovative solutions that balance economic growth with responsible stewardship of marine and terrestrial ecosystems.
+
+Our multidisciplinary capabilities span project structuring, financial modeling, environmental management, strategic advisory, and stakeholder coordination — enabling us to design and execute complex sustainability-driven projects across diverse sectors.
+
+📁 PROJECTS
+Create an individual page (or section) for each project listed below, with professional formatting, proper title, body content, and corresponding image placeholders.
+
+1️⃣ Sargassum Management Feasibility — Punta Cana, Dominican Republic
+Body:
+Delmo Group, in partnership with the Inter-American Development Bank (IDB), is leading a comprehensive feasibility study for the large-scale collection, processing, and management of sargassum algae in Punta Cana, Dominican Republic.
+
+This Blue Economy initiative addresses one of the region’s most pressing environmental challenges, with the goal of converting sargassum into sustainable bio-based products while protecting local marine ecosystems.
+
+Through strategic collaboration with international financial institutions and public agencies, Delmo Group develops scalable models that support ecological preservation and responsible economic development throughout the Caribbean.
+
+Image:
+Use aerial drone imagery of Caribbean coastlines with visible sargassum (sargassum aerial drone).
+
+2️⃣ Claromecó Basin UCG — Argentina
+Delmo Group provided technical and strategic advisory for an advanced Underground Coal Gasification (UCG) project in Claromecó Basin, Argentina. The project involved early feasibility, regulatory framework analysis, and development of preliminary environmental assessments.
+
+Image:
+Abstract underground energy feasibility or resource development concept (underground energy feasibility abstract).
+
+3️⃣ Centro Metropolitano de Tecnología — Argentina
+Strategic advisory services for the development of a public-private technology and innovation hub in Buenos Aires, coordinating institutional stakeholders and providing financial structuring support.
+
+Image:
+Tech business park or Buenos Aires skyline aerial (tech business park aerial).
+
+4️⃣ Cruz Malta — Argentina
+Delmo Group advised on operational optimization, logistics, and facility expansion strategy for Cruz Malta’s regional production center.
+
+Image:
+Logistics center aerial, urban warehouse park (logistics center aerial).
+
+5️⃣ Walsh Bay — Australia
+Advisory for heritage redevelopment and urban planning coordination for a waterfront mixed-use project in Sydney’s Walsh Bay precinct.
+
+Image:
+Sydney harbour redevelopment drone view (walsh bay sydney aerial).
+
+6️⃣ Finger Wharf — Australia
+Stakeholder coordination and regulatory advisory for one of Sydney’s key harbor restoration projects at Finger Wharf, balancing heritage preservation and modern commercial use.
+
+Image:
+Sydney marina redevelopment aerial (finger wharf marina sydney).
+
+7️⃣ The Bond — Australia
+Project advisory for early-phase planning and development structuring of The Bond mixed-use office development in Sydney.
+
+Image:
+Sustainable green office building (sustainable office tower).
+
+8️⃣ The Peninsula — Australia
+Infrastructure advisory and master planning services for The Peninsula residential and commercial precinct expansion.
+
+Image:
+Urban master plan waterfront development rendering (waterfront master plan urban development).
+
+9️⃣ Binary Centre — Australia
+Commercial structuring support for high-tech office and data center development in Sydney’s North Ryde technology corridor.
+
+Image:
+Tech business campus or data center aerial (data center tech business complex).
+
+🏆 AWARDS
+Title: Awards & Industry Recognition
+
+Body:
+Over the years, Delmo Group has participated in projects recognized for their technical innovation, sustainability impact, and excellence in design and execution.
+
+Our work reflects strong collaboration with public and private partners, contributing to best-practice outcomes across multiple sectors and jurisdictions.
+
+📞 CONTACT
+Australia:
+Suite 10
+151 Foveaux St
+Surry Hills 2010
+Tel. 02 9844 5809
+Email: info@delmogroup.com
+
+Argentina:
+Parera 47, 4th floor
+Recoleta, CABA
+Tel. +5411 4814 1505
+Email: info@delmogroup.com

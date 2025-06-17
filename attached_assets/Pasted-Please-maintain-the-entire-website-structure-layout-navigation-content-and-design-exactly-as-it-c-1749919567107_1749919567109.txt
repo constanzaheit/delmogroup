@@ -1,0 +1,93 @@
+Please maintain the entire website structure, layout, navigation, content and design exactly as it currently exists.
+
+✅ Do not modify any of the following:
+
+Homepage
+
+About Us
+
+Vision & Capabilities
+
+Projects descriptions
+
+Image placeholders
+
+Overall design
+
+🔧 Only apply the following content updates:
+
+🏆 AWARDS — Awards & Industry Recognition (full updated list):
+Finger Wharf - Woolloomooloo
+
+2000 Excellence on the Waterfront, Top Honour (Waterfront Centre, Washington DC)
+
+2001 Best Refurbishment/Renovation/Extension $50 million plus (MBA)
+
+2001 Finalist, Australian Construction Achievement Awards (Institute of Engineers)
+
+2001 High Commendation, Projects over $30 million (Australian Institute of Building)
+
+Walsh Bay
+
+2005 Outstanding Urban Design Award (Royal Australian Institute of Architects)
+
+2005 Development Excellence Award (Urban Taskforce NSW)
+
+2005 Development Award (National Trust of Australia)
+
+2004 Award for Excellence - Residential (ULI)
+
+2004 Excellence in Building (Year of the Built Environment Exemplars Program)
+
+2004 Heritage Waterfront (Australia Award for Urban Design)
+
+2004 Integrated Housing Open (Master Builders Association)
+
+2003 Presidents Award (UDIA)
+
+2003 Engineering Contract of the Year (CCFA)
+
+Binary Centre - North Ryde
+
+2002 Highly Commended, Excellence in Property Awards (Australian Property Institute)
+
+2003 Nominee, Ryder Hunt Award (Property Council of Australia)
+
+The Bond - Millers Point
+
+2004 Building of the Decade (Royal Australian Institute of Architects)
+
+2004 Development Excellence Award (Urban Taskforce NSW)
+
+2004 Excellence in Construction Award (Master Builders Association)
+
+2004 Year of the Built Environment Award (NSW Government)
+
+2005 Heritage Award (National Trust of Australia)
+
+2005 Five Star Energy Status Award (Sustainable Energy Development Authority)
+
+2005 Ecologically Sustainable Design Award (Royal Australian Institute of Architects)
+
+📞 CONTACT Section (update full contact block as follows):
+Contact 1+2
+
+Connect with Delmo Group to discuss sustainable development opportunities and Blue Economy initiatives.
+
+Australia:
+Ground Floor,
+465 Victoria Avenue
+Chatswood NSW 2067
+Tel. +61 2 9844 5809
+Email: info@delmogroup.com
+
+Argentina:
+Parera 47, 4th floor
+Recoleta, CABA
+Argentina
+Tel. +54 11 4814 1505
+Email: info@delmogroup.com
+
+✅ No additional changes are required.
+✅ Keep all current structure fully intact.
+✅ Apply only these content updates.

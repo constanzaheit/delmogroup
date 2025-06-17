@@ -1,0 +1,144 @@
+You are tasked to design and structure a professional corporate website for Delmo Group, following the specifications below.
+
+About Delmo Group:
+Delmo Group is an international advisory and project development firm, currently repositioning its focus towards the Blue Economy sector and environmental sustainability, while maintaining a history of successful real estate and infrastructure development projects across multiple regions.
+
+🔧 Platform:
+Build for Squarespace 7.1 platform.
+
+The goal is to define structure, layout suggestions, visual style guidelines, and content blocks.
+
+Do NOT generate any backend code. Focus on structure and professional content organization for Squarespace.
+
+🎯 Main website goals:
+Reflect the company’s new environmental strategy (Blue Economy focus).
+
+Present Delmo Group to institutional clients: governments, development banks (IDB), international organizations, and investors.
+
+Project professional credibility with a sober, clean and minimalistic design.
+
+Avoid any marketing-sounding or generic filler language.
+
+🗂️ Pages structure (navigation menu):
+Home
+
+About Us
+
+Vision & Capabilities
+
+Projects
+
+Awards
+
+Contact
+
+📄 Page-by-page content and structure:
+1️⃣ Home
+
+Lead statement (headline): Changing the Landscape
+
+Short intro paragraph:
+
+Delmo Group is evolving its global expertise to address today’s environmental challenges. Through innovative Blue Economy solutions, we are actively developing sustainable strategies to manage sargassum and contribute to ecological preservation across Latin America and the Caribbean.
+
+Full-width hero image (eco/ocean nature visual recommended).
+
+Avoid any newsletter or subscribe section.
+
+2️⃣ About Us
+Text content:
+
+Delmo Group is an international advisory and project development firm delivering complex infrastructure, real estate, and environmental solutions across multiple regions.
+
+The company is actively involved in addressing environmental challenges through innovative Blue Economy initiatives, including large-scale sargassum management projects that combine sustainability with long-term ecological preservation.
+
+Delmo works in partnership with governments, development banks, and private sector organizations to design and implement projects that support economic growth while prioritizing environmental responsibility.
+
+With experience managing complex projects across multiple regions, Delmo Group offers tailored solutions that balance development needs with sustainable outcomes.
+
+3️⃣ Vision & Capabilities
+Content:
+
+Delmo Group specializes in environmental advisory, Blue Economy project development, sargassum collection and processing, biostimulant production, and public-private partnerships with international institutions.
+
+4️⃣ Projects
+
+Create individual project items for each:
+
+Current Environmental Project:
+
+Sargassum Management Feasibility — Punta Cana, Dominican Republic
+
+Description:
+
+Delmo Group, in partnership with the Inter-American Development Bank (IDB), is leading a comprehensive feasibility study for the collection, processing, and management of sargassum algae in Punta Cana, Dominican Republic.
+
+This Blue Economy initiative addresses one of the region’s most pressing environmental challenges. The objective is to convert sargassum into sustainable biostimulants while protecting marine ecosystems.
+
+Through international partnerships and government collaboration, Delmo Group is developing scalable solutions that contribute to long-term ecological preservation and responsible economic development across the Caribbean.
+
+Project Highlights:
+
+Location: Punta Cana, Dominican Republic
+
+Partner: Inter-American Development Bank (IDB)
+
+Sector: Blue Economy — Environmental Solutions
+
+Focus: Sargassum Collection & Processing
+
+Objective: Ecological Preservation & Sustainable Development
+
+Historical Projects:
+
+Claromeco Basin UCG
+
+Centro Metropolitano de Tecnología
+
+Cruz Malta
+
+Walsh Bay
+
+Finger Wharf
+
+The Bond
+
+The Peninsula
+
+Binary Centre
+
+(For historical projects you may just list the names as simple project tiles with minimal descriptions).
+
+5️⃣ Awards
+Simple placeholder text:
+
+Delmo Group’s legacy of excellence has been recognized through its diverse portfolio of successful projects.
+
+6️⃣ Contact
+Use a clean contact form and include contact information placeholders.
+
+🎨 Design Style Guide:
+Clean, corporate, eco-friendly aesthetic.
+
+Use white space generously.
+
+Primary colors: eucalyptus green (#A9CBB7), light sage tones, soft neutrals.
+
+Avoid strong orange, red, or saturated colors.
+
+Sans-serif professional fonts.
+
+Layouts should feel inspired by OceanicBioAg’s current website.
+
+Hero sections should use full-width high quality nature images (oceans, sustainability, aerial views).
+
+🚫 Do NOT include:
+Newsletter forms
+
+Testimonials
+
+E-commerce elements
+
+Pricing tables
+
+Scheduling or appointment forms
